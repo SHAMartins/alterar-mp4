@@ -1,0 +1,9 @@
+# Ambiente e artefatos de build
+.venv-build/
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
